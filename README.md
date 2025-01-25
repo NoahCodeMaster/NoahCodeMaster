@@ -15,7 +15,7 @@
 
 ### 📫 How to reach me ...
 - **Discord User:** ok1v
-- **GitHub:** [NoahCodeMaster](https://github.com/NoahCodeMaster)
+- **GitHub:** [ok1v](https://github.com/ok1v)
 
 ### 😄 Pronouns ...
 - I don't specify pronouns because I’m Muslim.
